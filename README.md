@@ -7,7 +7,7 @@ Backend developer, student of Saratov State Technical University
 
 <h3>Stack of tecnhologies</h3>
 
-- Languages: Java, Kotlin
-- Frameworks: Spring, Spring Boot, Hibernate
-- Databases: PostgreSQL, MySQL, Redis, Neo4j, MongoDB
-- Other technologies: Kafka, Docker, Kubernetes, S3
+- Languages: <b>Java, Kotlin</b>
+- Frameworks: <b>Spring, Spring Boot, Hibernate</b>
+- Databases: <b>PostgreSQL, MySQL, Redis, Neo4j, MongoDB</b>
+- Other technologies: <b>Kafka, Docker, Kubernetes, S3</b>
